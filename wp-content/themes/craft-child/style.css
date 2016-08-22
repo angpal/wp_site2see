@@ -1,0 +1,30 @@
+/*
+Theme Name:			Craft Child
+Theme URI:			http://
+Description:		Child theme of Craft theme
+Author:				Angelo
+Author URI:			https://www.site2see.com.au
+Template:			Craft
+Version:			1.0
+License:			GNU
+License URI:		http://www.gnu.org
+Tags:				single column, nil sidebar, footer
+Text Domain: 		craft-child
+*/
+
+
+@import url(../craft/style.css);
+
+/*@font-face{
+
+font-family: lovelo;
+src: url(fonts/LoveloBlack.otf);
+}
+*/
+
+
+
+/* ---- Custom child CSS starts here ---- */
+
+	
+/* ----  GENERAL settings  ----- */

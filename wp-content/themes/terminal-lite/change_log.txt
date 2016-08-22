@@ -1,0 +1,14 @@
+Version 1.0
+i) Intial version Release
+
+Version 1.1
+i) Removed deprecated tags and made some changes as per WordPress guidelines. 
+
+Version 1.2
+i) Removed unused functions, header textcolor enable and updated po file and resolve few issue as asked by reviewer.
+
+Version 1.2.1
+i) Removed default content and ununsed files.
+
+Version 1.2.2
+i) Removed default content and update pot file.

@@ -1,0 +1,38 @@
+body#tinymce.wp-editor { 
+    font-family: 'Roboto',Arial; 
+    margin: 10px; 
+}
+
+body#tinymce.wp-editor a {
+    color: #5E5340;
+}
+img{ 
+	margin:0; 
+	padding:0; 
+	border:none; 
+	max-width:100%; 
+	height:auto; 
+}
+section img{
+	max-width:100%;
+}
+h1,h2,h3,h4,h5,h6{ 
+	margin:0; 
+	padding:0 0 15px;
+}
+p{ 
+	margin:0; 
+	padding:0;
+}
+a{ 
+	text-decoration:none; 
+	color:#ff8b38;
+}
+a:hover{ 
+	text-decoration:none; 
+	color:#666666;
+}
+ul{ 
+	margin:0 0 0 15px;
+	padding:0;
+}

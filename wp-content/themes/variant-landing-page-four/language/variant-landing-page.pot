@@ -1,0 +1,1032 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Variant Landing Page\n"
+"POT-Creation-Date: 2015-08-22 11:08+0530\n"
+"PO-Revision-Date: 2015-08-22 11:08+0530\n"
+"Last-Translator: \n"
+"Language-Team: InkThemes <inkthemes@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;_x:1,2c;"
+"_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;"
+"esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: 404.php:34
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching, or one of the links below, can help."
+msgstr ""
+
+#: 404.php:40
+msgid "Most Used Categories."
+msgstr ""
+
+#: 404.php:48
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: archive.php:10
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:12
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:14
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:16
+msgid "Blog Archives"
+msgstr ""
+
+#: attachment.php:30
+#, php-format
+msgid "Return to %s"
+msgstr ""
+
+#: attachment.php:33
+#, php-format
+msgid "<span>&larr;</span> %s"
+msgstr ""
+
+#: attachment.php:37
+#, php-format
+msgid "By %2$s"
+msgstr ""
+
+#: attachment.php:37
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: attachment.php:43
+#, php-format
+msgid "Published %2$s"
+msgstr ""
+
+#: attachment.php:49
+#, php-format
+msgid "Full size is %s pixels"
+msgstr ""
+
+#: attachment.php:49
+msgid "Link to full-size image"
+msgstr ""
+
+#: attachment.php:53 attachment.php:97
+msgid "Edit"
+msgstr ""
+
+#: attachment.php:94
+#, php-format
+msgid "Continue reading%s"
+msgstr ""
+
+#: attachment.php:96 page.php:33 single.php:29
+msgid "Pages:"
+msgstr ""
+
+#: author.php:7
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: category.php:13
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: comments.php:3
+msgid "Comments and Responses"
+msgstr ""
+
+#: comments.php:12
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:14
+msgid "Name (required)"
+msgstr ""
+
+#: comments.php:15
+msgid "Mail (will not be published) (required)"
+msgstr ""
+
+#: comments.php:16
+msgid "Website"
+msgstr ""
+
+#: comments.php:18
+msgid "Comment"
+msgstr ""
+
+#: comments.php:37
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:2
+msgid "Nothing Found"
+msgstr ""
+
+#: content-single.php:5
+msgid "By"
+msgstr ""
+
+#: content-single.php:6 content.php:16
+msgid "0 Comments"
+msgstr ""
+
+#: content-single.php:6 content.php:16
+msgid "1 Comment"
+msgstr ""
+
+#: content-single.php:6 content.php:16
+msgid "% Comments"
+msgstr ""
+
+#: content.php:4
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: content.php:7
+msgid "By "
+msgstr ""
+
+#: content.php:10
+#, php-format
+msgid "Visit %s&#8217;s website"
+msgstr ""
+
+#: content.php:29
+#, php-format
+msgid "Keep Reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: footer.php:27 mods/template/landing-page.php:152
+#, php-format
+msgid "%s &copy; Variant All rights reserved."
+msgstr ""
+
+#: functions.php:60
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:138
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: functions.php:140
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: functions.php:142
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: functions.php:179
+msgid "Home"
+msgstr ""
+
+#: functions.php:194
+msgid "Archive by category"
+msgstr ""
+
+#: functions.php:242
+msgid "Search results for"
+msgstr ""
+
+#: functions.php:244
+msgid "Posts tagged "
+msgstr ""
+
+#: functions.php:248
+msgid "Articles posted by "
+msgstr ""
+
+#: functions.php:250
+msgid "Error 404"
+msgstr ""
+
+#: functions.php:255
+msgid "Page"
+msgstr ""
+
+#: functions.php:279
+msgid "Post Image"
+msgstr ""
+
+#: header.php:19
+msgid "Skip to content"
+msgstr ""
+
+#: inc/widget-init.php:10
+msgid "Primary Widget Area"
+msgstr ""
+
+#: inc/widget-init.php:12
+msgid "The primary widget area"
+msgstr ""
+
+#: inc/widget-init.php:21
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: inc/widget-init.php:23
+msgid "The first footer widget area"
+msgstr ""
+
+#: inc/widget-init.php:31
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: inc/widget-init.php:33
+msgid "The second footer widget area"
+msgstr ""
+
+#: inc/widget-init.php:41
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#: inc/widget-init.php:43
+msgid "The third footer widget area"
+msgstr ""
+
+#: inc/widget-init.php:51
+msgid "Fourth Footer Widget Area"
+msgstr ""
+
+#: inc/widget-init.php:53
+msgid "The fourth footer widget area"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:334 mods/variantlp-functions.php:184
+msgid "Install Plugins"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:335 mods/variantlp-functions.php:185
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:336 mods/variantlp-functions.php:186
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:338
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: mods/class-tgm-plugin-activation.php:341 mods/variantlp-functions.php:191
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: mods/class-tgm-plugin-activation.php:344 mods/variantlp-functions.php:194
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: mods/class-tgm-plugin-activation.php:347 mods/variantlp-functions.php:197
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: mods/class-tgm-plugin-activation.php:350 mods/variantlp-functions.php:200
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: mods/class-tgm-plugin-activation.php:353 mods/variantlp-functions.php:203
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: mods/class-tgm-plugin-activation.php:356
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: mods/class-tgm-plugin-activation.php:359 mods/variantlp-functions.php:209
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: mods/class-tgm-plugin-activation.php:362 mods/variantlp-functions.php:212
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: mods/class-tgm-plugin-activation.php:365 mods/variantlp-functions.php:215
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: mods/class-tgm-plugin-activation.php:368 mods/variantlp-functions.php:218
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: mods/class-tgm-plugin-activation.php:371 mods/variantlp-functions.php:221
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: mods/class-tgm-plugin-activation.php:373 mods/variantlp-functions.php:223
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:374
+msgid "Return to the dashboard"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:375
+#: mods/class-tgm-plugin-activation.php:2965 mods/variantlp-functions.php:224
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:376
+#: mods/class-tgm-plugin-activation.php:2762 mods/variantlp-functions.php:225
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: mods/class-tgm-plugin-activation.php:377 mods/variantlp-functions.php:226
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:378 mods/variantlp-functions.php:227
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:379 mods/variantlp-functions.php:228
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:380
+msgid "Dismiss this notice"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:381 mods/variantlp-functions.php:229
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:494
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:494
+msgid "Update Required"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:607
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:795
+#: mods/class-tgm-plugin-activation.php:3376
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:902
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:902
+#: mods/class-tgm-plugin-activation.php:905
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:905
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:1081
+#: mods/class-tgm-plugin-activation.php:2759
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:1830
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2122
+msgid "Required"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2125
+msgid "Recommended"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2141
+msgid "WordPress Repository"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2144
+msgid "External Source"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2147
+msgid "Pre-Packaged"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2164
+msgid "Not Installed"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2168
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2170
+msgid "Active"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2176
+msgid "Required Update not Available"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2178
+msgid "Requires Update"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2180
+msgid "Update recommended"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2188
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2231
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: mods/class-tgm-plugin-activation.php:2234
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: mods/class-tgm-plugin-activation.php:2237
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: mods/class-tgm-plugin-activation.php:2240
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: mods/class-tgm-plugin-activation.php:2314
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2322
+msgid "Installed version:"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2328
+msgid "Minimum required version:"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2339
+msgid "Available version:"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2360
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2374
+msgid "Plugin"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2375
+msgid "Source"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2376
+msgid "Type"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2380
+msgid "Version"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2381
+msgid "Status"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2429
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2433
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2438
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2503
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2536
+msgid "Install"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2542
+msgid "Update"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2545
+msgid "Activate"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2576
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2578
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2614
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2616
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2719
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2745
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:2964
+msgid "Plugin activation failed."
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:3301
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:3303
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:3304
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:3308
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:3309
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:3309
+#: mods/class-tgm-plugin-activation.php:3315
+msgid "Show Details"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:3309
+#: mods/class-tgm-plugin-activation.php:3315
+msgid "Hide Details"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:3310
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:3311
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:3314
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:3315
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:3316
+msgid "All installations have been completed."
+msgstr ""
+
+#: mods/class-tgm-plugin-activation.php:3317
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:146
+msgid "Logo"
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:151
+msgid "Upload your logo image."
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:154
+msgid "Contact Number"
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:159
+msgid "Enter your contact number."
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:162
+msgid "Top Heading"
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:166
+msgid "BEST LANDING PAGE THEME"
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:167
+msgid ""
+"Enter your heading text. This would be displayed on the top of the your "
+"template."
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:170
+msgid "Top Description"
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:174
+msgid ""
+"Capture Leads Instantly and Sell Your Services With Variant Landing Page "
+"Theme"
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:175
+msgid "Enter your short description to describe about your business."
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:178
+msgid "Top Background Image"
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:183
+msgid "Upload background image. This would be displayed on the top section."
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:189
+msgid "Lead Form"
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:194
+msgid ""
+"Enter here embed share form link. If you are not getting this, follow the "
+"readme.txt."
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:202
+msgid "Feature main heading"
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:206
+msgid "Little But Useful Tricks To Viral Marketing"
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:210
+msgid "Feature main description"
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:214
+msgid ""
+"Maria Patte and the staff at the Hilton were very helpful. When we first "
+"booked, there were some<br/> changes in their food options as well as a room "
+"mix-up that worked in our favor."
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:225
+msgid "Feature Item 1"
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:233
+msgid "Circle Image 1"
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:241
+msgid "Description 1"
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:245
+#: mods/template/landing-page.php:108
+msgid "Collect leads instantly and start selling your services."
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:252
+msgid "Feature Item 2"
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:260
+msgid "Circle Image 2"
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:268
+msgid "Description 2"
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:272
+#: mods/template/landing-page.php:104
+msgid "Variant is completely responsive and looks cool across all devices."
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:279
+msgid "Feature Item 3"
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:287
+msgid "Circle Image 3"
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:295
+msgid "Description 3"
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:299
+#: mods/inc/customizer/variant-customizer.php:326
+#: mods/template/landing-page.php:112 mods/template/landing-page.php:116
+msgid "Create any kind of Form via FormGet and use it on Landing Page."
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:306
+msgid "Feature Item 4"
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:314
+msgid "Circle Image 4"
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:322
+msgid "Description 4"
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:333
+msgid "Footer Text"
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:337
+msgid "Enter your footer text like copyright notice of your business."
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:405
+msgid "View PRO version"
+msgstr ""
+
+#: mods/inc/customizer/variant-customizer.php:407
+msgid "Need Help!"
+msgstr ""
+
+#: mods/inc/customizer/variant-sections.php:11
+msgid "Variant Theme Options"
+msgstr ""
+
+#: mods/inc/customizer/variant-sections.php:13
+msgid "Allows you to customize some example settings for Variant Theme."
+msgstr ""
+
+#: mods/inc/customizer/variant-sections.php:21
+msgid "General Settings"
+msgstr ""
+
+#: mods/inc/customizer/variant-sections.php:25
+msgid ""
+"Allows you to customize header logo, header text etc settings for Variant "
+"Theme."
+msgstr ""
+
+#: mods/inc/customizer/variant-sections.php:33
+msgid "Lead Form Settings"
+msgstr ""
+
+#: mods/inc/customizer/variant-sections.php:37
+msgid "Allows you to add lead form for Variant Theme."
+msgstr ""
+
+#: mods/inc/customizer/variant-sections.php:44
+msgid "Feature Heading And Description"
+msgstr ""
+
+#: mods/inc/customizer/variant-sections.php:48
+msgid "Allows you to change feature heading and description for Variant Theme."
+msgstr ""
+
+#: mods/inc/customizer/variant-sections.php:55
+msgid "Featured Items"
+msgstr ""
+
+#: mods/inc/customizer/variant-sections.php:59
+msgid "Allows you to change featured item for Variant Theme."
+msgstr ""
+
+#: mods/inc/customizer/variant-sections.php:66
+msgid "Footer Text Setting"
+msgstr ""
+
+#: mods/inc/customizer/variant-sections.php:70
+msgid "Allows you to change footer text for Variant Theme."
+msgstr ""
+
+#: mods/template/landing-page.php:40
+msgid "885-5441-122"
+msgstr ""
+
+#: mods/template/landing-page.php:56
+msgid "Every day a different journey"
+msgstr ""
+
+#: mods/template/landing-page.php:57
+msgid ""
+"With our Theme Setup service we'll manually install WordPress, your Organic "
+"Theme"
+msgstr ""
+
+#: mods/variantlp-functions.php:36
+msgid "Your Contact"
+msgstr ""
+
+#: mods/variantlp-functions.php:154
+msgid "FormGet Contact Form"
+msgstr ""
+
+#: mods/variantlp-functions.php:183
+msgid "Install Recommended Plugins"
+msgstr ""
+
+#: mods/variantlp-functions.php:188
+#, php-format
+msgid ""
+"This theme recommends the following plugin to add lead form on landing page: "
+"%1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: mods/variantlp-functions.php:206
+#, php-format
+msgid ""
+"This theme recommends the following plugin to add lead form on landing page "
+"is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: mods/variantlp-functions.php:251
+msgid "Formget Placeholder"
+msgstr ""
+
+#: search.php:13
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search:"
+msgstr ""
+
+#: searchform.php:4
+msgid "Search topics.."
+msgstr ""
+
+#: single.php:32
+msgid "<span class=\"meta-nav\">&larr;</span> Previous post"
+msgstr ""
+
+#: single.php:33
+msgid "Next post <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: tag.php:8
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
