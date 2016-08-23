@@ -127,7 +127,30 @@ function optionsframework_options() {
 						"desc" => "Paste here the link of the page or post.",
 						"id" => "box_link3",
 						"std" => "",
-						"type" => "text");																		
+						"type" => "text");
+
+	$options[] = array( "name" => "Homepage Box 4 heading",
+						"desc" => "Heading for homepage box4.",
+						"id" => "box_head4",
+						"std" => "",
+						"type" => "text");
+						
+	$options[] = array( "name" => "Homepage Box 4 text",
+						"desc" => "Textarea for homepage box4.",
+						"id" => "box_text4",
+						"std" => "",
+						"type" => "textarea");
+						
+	$options[] = array( "name" => "Homepage Box 4 thumbnail image",
+						"desc" => "215px x 80px exact. Upload your image for homepage box 4.",
+						"id" => "box_image4",
+						"type" => "upload");						
+						
+	$options[] = array( "name" => "Homepage Box 4 link",
+						"desc" => "Paste here the link of the page or post.",
+						"id" => "box_link4",
+						"std" => "",
+						"type" => "text");																						
 						
 	$options[] = array( "name" => "Slider Settings",
 						"type" => "heading");

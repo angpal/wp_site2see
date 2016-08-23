@@ -9,14 +9,18 @@
 
 <div id="slider_container">
 
-	<div class="row">
-
-		<div class="twelve columns">
 	
-			<?php get_template_part( 'element-slider', 'index' ); ?>
+
+		<div class="twelve columns hero-banner">
+	
+			<div class="hero-content">
+			<h1>Call to action</h1>
+			<p>blah blah blah get a website from Angelo!</p>
+			<a href="#" class="call-to-action-btn">Click me</a>
+			</div>
 
 		</div>
-	</div>
+
 </div>
 
 <?php } ?> <!-- slider end -->
