@@ -1,0 +1,378 @@
+# Translation of craft in English (Australia)
+# This file is distributed under the same license as the craft package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-08-30 23:30:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: craft\n"
+
+#. Theme Name of the plugin/theme
+msgid "craft"
+msgstr "craft"
+
+#. Description of the plugin/theme
+msgid "A very neat and clean orange and white responsive business theme. The theme supports widgets. And features theme-options, threaded-comments and multi-level dropdown menu. A simple and neat typography."
+msgstr "A very neat and clean orange and white responsive business theme. The theme supports widgets. And features theme-options, threaded-comments and multi-level dropdown menu. A simple and neat typography."
+
+#: admin/options/includes/class-options-sanitization.php:427
+msgid "Bold Italic"
+msgstr "Bold Italic"
+
+#: admin/options/includes/class-options-sanitization.php:426
+msgid "Bold"
+msgstr "Bold"
+
+#: admin/options/includes/class-options-sanitization.php:425
+msgid "Italic"
+msgstr "Italic"
+
+#: admin/options/includes/class-options-sanitization.php:352
+msgid "Fixed in Place"
+msgstr "Fixed in Place"
+
+#: admin/options/includes/class-options-sanitization.php:424
+msgid "Normal"
+msgstr "Normal"
+
+#: admin/options/includes/class-options-sanitization.php:351
+msgid "Scroll Normally"
+msgstr "Scroll Normally"
+
+#: admin/options/includes/class-options-sanitization.php:338
+msgid "Bottom Center"
+msgstr "Bottom Centre"
+
+#: admin/options/includes/class-options-sanitization.php:339
+msgid "Bottom Right"
+msgstr "Bottom right"
+
+#: admin/options/includes/class-options-sanitization.php:334
+msgid "Middle Left"
+msgstr "Middle Left"
+
+#: admin/options/includes/class-options-sanitization.php:335
+msgid "Middle Center"
+msgstr "Middle Centre"
+
+#: admin/options/includes/class-options-sanitization.php:336
+msgid "Middle Right"
+msgstr "Middle Right"
+
+#: admin/options/includes/class-options-sanitization.php:337
+msgid "Bottom Left"
+msgstr "Bottom left"
+
+#: admin/options/includes/class-options-sanitization.php:333
+msgid "Top Right"
+msgstr "Top right"
+
+#: admin/options/includes/class-options-sanitization.php:332
+msgid "Top Center"
+msgstr "Top Centre"
+
+#: admin/options/includes/class-options-sanitization.php:319
+msgid "Repeat All"
+msgstr "Repeat All"
+
+#: admin/options/includes/class-options-sanitization.php:331
+msgid "Top Left"
+msgstr "Top left"
+
+#: admin/options/includes/class-options-sanitization.php:317
+msgid "Repeat Horizontally"
+msgstr "Repeat Horizontally"
+
+#: admin/options/includes/class-options-sanitization.php:318
+msgid "Repeat Vertically"
+msgstr "Repeat Vertically"
+
+#: admin/options/includes/class-options-sanitization.php:316
+msgid "No Repeat"
+msgstr "No Repeat"
+
+#: admin/options/includes/class-options-media-uploader.php:70
+msgid "Upgrade your version of WordPress for full media support."
+msgstr "Upgrade your version of WordPress for full media support."
+
+#: admin/options/includes/class-options-media-uploader.php:62
+msgid "No file chosen"
+msgstr "No file chosen"
+
+#: admin/options/includes/class-options-media-uploader.php:67
+#: admin/options/includes/class-options-media-uploader.php:119
+msgid "Remove"
+msgstr "Remove"
+
+#: searchform.php:7
+msgid "search this site"
+msgstr "search this site"
+
+#: search.php:33
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+
+#: search.php:29
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: search.php:9
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: loop.php:60
+msgid "&larr; Older posts"
+msgstr "&larr; Older posts"
+
+#: loop.php:61
+msgid "Newer posts &rarr;"
+msgstr "Newer posts &rarr;"
+
+#: loop.php:41
+msgid "Read More"
+msgstr "Read More"
+
+#: loop.php:23 single.php:29
+msgid "in"
+msgstr "in"
+
+#: loop.php:32
+msgid "<span class=\"read-more\">Read More</span>"
+msgstr "<span class=\"read-more\">Read More</span>"
+
+#: loop.php:17
+msgid "(No title)"
+msgstr "(no title)"
+
+#: loop.php:17
+msgid "Permalink to %s"
+msgstr "Permalink to %s"
+
+#: loop.php:4
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+
+#: loop.php:3
+msgid "Not Found"
+msgstr "Not Found"
+
+#: image.php:63
+msgid "Edit"
+msgstr "Edit"
+
+#: image.php:59
+msgid "Posted in %s"
+msgstr "Posted in %s"
+
+#: image.php:52
+msgid "&larr; Previous Image"
+msgstr "&larr; Previous Image"
+
+#: image.php:53
+msgid "Next Image &rarr;"
+msgstr "Next Image &rarr;"
+
+#: image.php:58
+msgid "Tagged with:"
+msgstr "Tagged with:"
+
+#: image.php:48 loop.php:34 loop.php:43 page.php:29 single.php:36
+msgid "Pages:"
+msgstr "Pages:"
+
+#: image.php:47
+msgid "Read more &#8250;;"
+msgstr "Read more &#8250;;"
+
+#: image.php:39 loop.php:23 single.php:29
+msgid "% Comments"
+msgstr "% Comments"
+
+#: image.php:39 loop.php:23 single.php:29
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: image.php:39 loop.php:23 single.php:29
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#: functions.php:415
+msgid "<span class=\"%1$s\">Posted on</span> %2$s"
+msgstr "<span class=\"%1$s\">Posted on</span> %2$s"
+
+#: home.php:15 home.php:18 home.php:20 image.php:12 index.php:15 index.php:18
+#: index.php:20
+msgid "Archives for "
+msgstr "Archives for "
+
+#: image.php:35
+msgid "&#8249; Return to"
+msgstr "&#8249; Return to"
+
+#: functions.php:305
+msgid "View all posts by %s"
+msgstr "View all posts by %s"
+
+#: functions.php:296
+msgid "%2$s <span class=\"meta-sep\">by</span> %3$s"
+msgstr "%2$s <span class=\"meta-sep\">by</span> %3$s"
+
+#: functions.php:281
+msgid "Fourth Footer Widget Area"
+msgstr "Fourth Footer Widget Area"
+
+#: functions.php:283
+msgid "The fourth footer widget area"
+msgstr "The fourth footer widget area"
+
+#: functions.php:272
+msgid "The third footer widget area"
+msgstr "The third footer widget area"
+
+#: functions.php:270
+msgid "Third Footer Widget Area"
+msgstr "Third Footer Widget Area"
+
+#: functions.php:261
+msgid "The second footer widget area"
+msgstr "The second footer widget area"
+
+#: functions.php:259
+msgid "Second Footer Widget Area"
+msgstr "Second Footer Widget Area"
+
+#: functions.php:248
+msgid "First Footer Widget Area"
+msgstr "First Footer Widget Area"
+
+#: functions.php:250
+msgid "The first footer widget area"
+msgstr "The first footer widget area"
+
+#: functions.php:239
+msgid "The primary widget area"
+msgstr "The primary widget area"
+
+#: functions.php:237
+msgid "Primary Widget Area"
+msgstr "Primary Widget Area"
+
+#: functions.php:221
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:204 functions.php:221
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#. translators: 1: date, 2: time
+#: functions.php:204
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: functions.php:197
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: functions.php:33
+msgid "Primary Navigation"
+msgstr "Primary Navigation"
+
+#: functions.php:194
+msgid "%s"
+msgstr "%s"
+
+#: footer.php:32
+msgid "antthemes"
+msgstr "antthemes"
+
+#: footer.php:32
+msgid "craft theme by"
+msgstr "craft theme by"
+
+#: footer.php:32
+msgid "WordPress"
+msgstr "WordPress"
+
+#: footer.php:32
+msgid "Powered by"
+msgstr "Powered by"
+
+#: footer.php:32
+msgid "Copyright"
+msgstr "Copyright"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:46
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackbacks/Pingbacks"
+
+#: comments.php:28 comments.php:56
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:27 comments.php:55
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Older Comments"
+
+#: comments.php:21
+msgid "One Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] "%1$s Response to %2$s"
+msgstr[1] "%1$s Responses to %2$s"
+
+#: comments.php:3
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "This post is password protected. Enter the password to view any comments."
+
+#: admin/options/includes/class-options-media-uploader.php:94
+msgid "View File"
+msgstr "View File"
+
+#: admin/options/includes/class-options-media-uploader.php:65
+#: admin/options/includes/class-options-media-uploader.php:118
+msgid "Upload"
+msgstr "Upload"
+
+#: admin/options/includes/class-options-framework-admin.php:91
+#: admin/options/includes/class-options-framework-admin.php:92
+msgid "Theme Options"
+msgstr "Theme Options"
+
+#: admin/options/includes/class-options-framework-admin.php:296
+msgid "Options saved."
+msgstr "Options saved."
+
+#: admin/options/includes/class-options-framework-admin.php:242
+msgid "Default options restored."
+msgstr "Default options restored."
+
+#: admin/options/includes/class-options-framework-admin.php:204
+msgid "Restore Defaults"
+msgstr "Restore Defaults"
+
+#: admin/options/includes/class-options-framework-admin.php:204
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Click OK to reset. Any theme settings will be lost!"
+
+#: admin/options/includes/class-options-framework-admin.php:203
+msgid "Save Options"
+msgstr "Save Options"
+
+#. Author URI of the plugin/theme
+msgid "http://antthemes.com/"
+msgstr "http://antthemes.com/"
+
+#. Author of the plugin/theme
+msgid "Manishg"
+msgstr "Manishg"
+
+#. Theme URI of the plugin/theme
+msgid "http://antthemes.com/?page_id=2663"
+msgstr "http://antthemes.com/?page_id=2663"

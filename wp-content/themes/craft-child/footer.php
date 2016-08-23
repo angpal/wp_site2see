@@ -23,13 +23,14 @@
 		
 	<div class="clear"></div>
 	
-		<div id="footer-info">		
+	<div id="footer-info">		
 			
-				<!--footer container--><div class="row">
+				<!--footer container-->
+		<div class="row">
 				
-		<div class="large-12 columns">
+			<div class="large-12 columns">
 			
-			<div id="copyright"><?php _e( 'Copyright', 'craft' ); ?> <?php echo date( 'Y' ); ?> <?php echo esc_html(of_get_option('footer_cr')); ?> | <?php _e( 'Powered by', 'craft' ); ?> <a href="http://www.wordpress.org"><?php _e( 'WordPress', 'craft' ); ?></a> | <?php _e( 'craft theme by', 'craft' ); ?> <a href="http://www.antthemes.com"><?php _e( 'antthemes', 'craft' ); ?></a></div>
+				<div id="copyright"><?php _e( 'Copyright', 'craft' ); ?> <?php echo date( 'Y' ); ?> <?php echo esc_html(of_get_option('footer_cr')); ?><!-- | <?php _e( 'Powered by', 'craft' ); ?> <a href="http://www.wordpress.org"><?php _e( 'WordPress', 'craft' ); ?></a> -->| <?php _e( 'Designed and Developed by', 'craft' ); ?> <a href="http://www.site2see.com.au"><?php _e( 'site2see.com.au', 'craft' ); ?></a></div>
 					
 			</div><!--footer info end-->		
 		</div><!-- footer container2-->				
