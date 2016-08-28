@@ -107,7 +107,7 @@ p.hero-p {
 }
 
 
-/* ---- Section 2 - Feature Boxes ----- */
+/* ---- MAIN CONTENT AREA ----- */
 
 #box_container {
     width: 100%;
@@ -115,6 +115,10 @@ p.hero-p {
     padding: 0!important;
     border-bottom: 1px solid #ddd;
 }
+
+/* ---- Section 2 - Feature Boxes ----- */
+
+
 #feature-boxes {
     width: 100%;
     background-color: #f1f1f1;
@@ -122,7 +126,10 @@ p.hero-p {
 }
 
 
-#my-promise {
+
+/* ---- Section 3 - Business Philosophy ----- */
+
+#my-philosophy {
     width: 100%;
     position: relative;
     background-color: #f9f9f9;
@@ -153,4 +160,338 @@ p.hero-p {
 .my-offer ul {
     display: inline-block;
     text-align: left;
+}
+
+.a-better-way {
+    display: inline-block;
+    position: relative;
+    width: 90%;
+    margin: 30px 5%;
+    padding: 0;
+}
+
+.a-better-way h2 {
+    text-align: center;
+    margin-bottom: 14px;
+}
+
+.way1 {
+    display: inline-block;
+    clear: all;
+    width: 33%;
+    min-height: 200px;
+    margin-top: 20px;
+    vertical-align: top;
+}
+     
+img.img-way1{
+    height: 100%;
+    width: auto;
+    margin: auto;
+    display: block;
+}     
+
+.way2 {
+    display: inline-block;
+    clear: all;
+    width: 33%;
+    min-height: 200px;
+    margin-top: 20px;
+    vertical-align: top;
+}
+
+img.img-way2{
+    height: 100%;
+    width: auto;
+    margin: auto;
+    display: block;
+}   
+   
+.way3 {
+    display: inline-block;
+    clear: all;
+    width: 33%;
+    min-height: 200px;
+    margin-top: 20px;
+    vertical-align: top;
+}
+
+img.img-way3 {
+    height: 100%;
+    width: auto;
+    margin: auto;
+    display: block;
+}      
+
+.take-action {
+    width: 100%;
+    display: inline-block;
+    position: relative;
+}
+img.t-action {
+    width: 70%;
+    margin: 30px auto;
+    margin: auto;
+    display: block;
+}
+
+
+
+
+/* ------- Section 4 - Contact-Us page --------- */
+
+#contact-us {
+    width: 100%;
+    background-color: #f1f1f1;
+    padding: 50px 20px;
+    min-height: 200px;
+}
+
+#contact-us h2 {
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+#contact-us h3 {
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+
+
+
+.fscf-box {
+    margin: 20px auto;
+    width: 80%;
+    display: block;
+    text-align: center;
+}
+
+.fscf-box p {
+    display: none;
+}
+
+#FSContact1 {
+    margin: auto;
+
+    text-align: center;
+    display: block;
+}
+
+
+/*
+#fscf_div_field1_0 label {
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+input #fscf_name1 {
+    text-align: center;
+    display: inline-block;
+}
+
+
+/* ------- Contact Us Page ------ 
+
+    .contact_intro {
+        width: 50%;
+        display: inline-block;
+        float: left;
+        margin: 20px auto 20px auto;
+    }
+
+    .contact_icon {
+        width: 50%;
+        display: inline-block;
+        float: left;
+        clear: all;
+        text-align: center;
+        margin: 20px auto 20px auto;
+    }
+    .contact_icon img{
+        width: 350px;
+        height: auto;
+    }
+
+    .contact-form-left{
+        width: 50%;
+        display: inline-block;
+        float: left;
+        margin: 20px auto 20px auto;
+    }
+
+    input[type="submit"].wpcf7-form-control {
+    position: relative;
+    display: inline-block;
+    font-family: "Source Sans Pro", Verdana, sans-serif;
+    font-size: 13px;
+    line-height: 24px;
+    font-weight: 700;
+    padding: 5px 10px;
+    color: #000;
+    text-transform: uppercase;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -o-border-radius: 0;
+    border-radius: 0;
+    -webkit-transition: all none;
+    -moz-transition: all none;
+    -ms-transition: all none;
+    -o-transition: all none;
+    transition: all none;
+    border: 1px solid #000;
+    }
+
+    input[type="submit"].wpcf7-form-control:hover {
+    border: 2px solid #000!important;
+    top:2px;
+    padding-top: 7px;
+    font-weight: 500;
+    background-color: ;
+    color: #000;
+}
+    .contact-details-right {
+        width: 50%;
+        display: inline-block;
+        float: left;
+        clear: all;
+        text-align: center;
+        margin: 20px auto 20px auto;
+    }
+    .contact-details {
+        display: inline-block;
+        font-size: 20px;
+        line-height: 40px;
+        text-align: left;
+        margin-bottom: 80px;
+    }
+
+
+
+/* ------ Contact Form --------- 
+
+
+    .contact-form-left p{
+        font-size: 18px;
+        font-weight: 500;
+        font-style: italic;
+        margin-bottom: 40px;
+    }
+
+    .cf-box {
+        width: 100%;
+        margin: auto;
+        padding: 15px;
+        background-color: #f3f3f3;
+        box-shadow: 0px 0px 10px #989898 ;
+    }
+    .name_input {
+        width: 30%;
+    }
+
+    .requ_stat {
+        font-size: 12px;
+        line-height: 15px;
+        text-align: right;
+        padding-left: 5%;
+    }
+    input:focus {
+        box-shadow: none;
+        border: 1px solid #dbdbdb!important;
+    }
+
+    textarea:focus {
+        box-shadow: none!important;
+        border: 1px solid #dbdbdb!important;
+    }
+
+    span.your-name input[type="text"]{
+        position: relative;
+        top: -12px;
+        left: 15px;
+        width: 67%;
+        background-color: #fff;
+    }
+
+
+    .email_input{
+        width: 30%;
+    }
+
+    span.your-email input[type="email"]{
+        position: relative;
+        top: -12px;
+        left: 15px;
+        width: 67%;
+        background-color: #fff;
+    }
+
+
+    .subject_input{
+        width: 30%;
+        text-align: right;
+    }
+
+    span.your-subject input[type="text"]{
+        position: relative;
+        top: -12px;
+        left: 15px;
+        width: 67%;
+        background-color:  #fff;
+    }
+
+
+    textarea.wpcf7-form-control {
+        box-shadow: 5px 5px 5px rgba(192, 192, 192, 0.84) inset;
+        background-color: #fff;
+    }
+
+
+    input.wpcf7-form-control {
+        box-shadow: 5px 5px 5px rgba(192, 192, 192, 0.84) inset;
+    }
+
+    label.name_input {
+    margin-bottom: 0!important;
+
+}
+
+*/
+
+
+
+
+
+/* ------ Section 5 - Contact Us ----------- */
+
+.textwidget a {
+    color: #f2f2f2;
+}
+
+
+
+
+
+
+
+
+/* --------- CONTACT US page --------- */
+
+#subhead_container {
+    padding: 7px 20px;
+    background: #294064!important;
+    
+}
+
+#subhead_container h1{
+    font-weight: 600!important;
+    color: f3f3f3;
+}
+
+.post-entry p{
+    display: none;
+    
 }
