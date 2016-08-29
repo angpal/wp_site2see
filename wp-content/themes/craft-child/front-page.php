@@ -31,6 +31,8 @@
 
 		<div id="feature-boxes">
 
+			<h2 class="services-heading">Specialized Services and Professional Approach</h2>
+
 			<div class="row">
 				
 				<?php get_template_part( 'element-boxes', 'index' ); ?>
@@ -88,7 +90,7 @@
 
     				<div class="way3">
     					<img src = "http://localhost:8080/wp_site2see/wp-content/uploads/2016/08/principle_3_attention.png" class="img-way3">
-    					<h3> Attention to Detail, Not the  Clock</h3>
+    					<h3> Focus on Detail, Not Time</h3>
     					<p>I may not be the fastest developer in the market place, but that is not my intention. Quality and attention to detail takes time. My process is thorough.</p>
     				</div>
 
@@ -114,10 +116,10 @@
 			<div class="fscf-box">
 
 				<?php
-if ( isset($si_contact_form) )  {
- echo $si_contact_form->si_contact_form_short_code( array( 'form' => '1' ) );
-}
-?>
+					if ( isset($si_contact_form) )  {
+					 echo $si_contact_form->si_contact_form_short_code( array( 'form' => '1' ) );
+					}
+				?>
 
 			</div>
 		</div><!--- my-philosophy end -->

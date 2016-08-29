@@ -123,7 +123,7 @@ p.hero-p {
     border-bottom: 1px solid #ddd;
 }
 
-/* ---- Section 2 - Feature Boxes ----- */
+/* ---- Section 2 - Services ----- */
 
 
 #feature-boxes {
@@ -131,6 +131,32 @@ p.hero-p {
     background-color: #f1f1f1;
     padding: 50px 20px;
 }
+
+.box-content {
+    padding: 10px;
+    text-align: left;
+}
+
+.box-head img {
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+}
+
+h2.services-heading {
+    text-align: center;
+    margin: 20px 0;
+    color: #294064!important;
+}
+
+.title-head {
+    color: #294064!important;
+}
+.boxes {
+    border: 1px solid #294064!important;
+    border-radius: 9px;
+    min-height: 600px!important;
+}
+
 
 
 
@@ -149,6 +175,7 @@ p.hero-p {
     display: inline-block;
     text-align: center;
     margin: 0 auto;
+    vertical-align: top;
 }
 
 .my-goals ul {
@@ -162,6 +189,7 @@ p.hero-p {
     display: inline-block;
     text-align: center;
     margin: 0 auto;
+    vertical-align: top;
 }
 
 .my-offer ul {
@@ -180,6 +208,14 @@ p.hero-p {
 .a-better-way h2 {
     text-align: center;
     margin-bottom: 14px;
+    color: #294064!important;
+}
+
+.a-better-way h3 {
+    text-align: center;
+    margin: 20px 0 15px 0;
+    font-size: 160%;
+    color: #294064!important;
 }
 
 .way1 {
@@ -188,6 +224,7 @@ p.hero-p {
     width: 33%;
     min-height: 200px;
     margin-top: 20px;
+    padding-right: 3%;
     vertical-align: top;
 }
      
@@ -204,6 +241,7 @@ img.img-way1{
     width: 33%;
     min-height: 200px;
     margin-top: 20px;
+    padding-right: 3%;
     vertical-align: top;
 }
 
@@ -217,7 +255,7 @@ img.img-way2{
 .way3 {
     display: inline-block;
     clear: all;
-    width: 33%;
+    width: 31%;
     min-height: 200px;
     margin-top: 20px;
     vertical-align: top;
@@ -258,12 +296,14 @@ img.t-action {
     text-align: center;
     font-weight: 600;
     margin-bottom: 20px;
+    color: #294064!important;
 }
 
 #contact-us h3 {
     text-align: center;
     font-weight: 600;
     margin-bottom: 20px;
+    color: #294064!important;
 }
 
 
@@ -342,15 +382,36 @@ img.t-action {
 	p.hero-p {
 	    font-size: 16px;
 	}
-/*
-	.hero-content {
-	    width: 40%;
-	    height: auto;
-	    position: absolute;
-	    right: 2%;
-	    bottom: 4%;
-	}
-*/
+
+
+
+
+
+@media only screen and (max-width: 1110px){
+    .a-better-way h3 {
+        text-align: center;
+        margin: 20px 0 15px 0;
+        font-size: 140%;
+    }
+
+
+
+}
+
+
+
+
+@media only screen and (max-width: 1025px) {
+    .large-3 {
+        position: relative;
+        width: 50%!important;
+    }
+
+    
+
+}
+
+
 
 
 @media only screen and (max-width: 890px) {
@@ -408,6 +469,28 @@ img.t-action {
 
 
 
+@media only screen and (max-width: 790px) {
+    .way1 {
+        width: 48%;
+        margin-right: 3%
+    }
+
+    .way2 {
+        width: 48%;
+    }
+
+    .way3 {
+        display: block;
+        width: 50%;
+        margin: 15px auto;
+    }
+
+
+
+}
+
+
+
 
 @media only screen and (max-width: 550px) {
 
@@ -428,7 +511,47 @@ img.t-action {
 	.call-to-action-btn {
 	    font-size: 70%;
 	}
+
+
+    
+    .way1 {
+        display: block;
+        width: 75%;
+        margin: 15px auto;
+    }
+
+    .way2 {
+        display: block;
+        width: 75%;
+        margin: 15px auto;
+    }
+
+    .way3 {
+        display: block;
+        width: 75%;
+        margin: 15px auto;
+    }
+
+
+    .my-goals {
+        width: 75%;
+        padding: 5px 2%;
+        display: block;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .my-offer {
+        width: 75%;
+        padding: 5px 2%;
+        display: block;
+        text-align: center;
+        margin: 0 auto;
+    }
+
 }
+
+
 
 
 
@@ -439,7 +562,17 @@ img.t-action {
 	    background-color: #596887;
 	    min-height: 420px;
 	}
+
+    .large-3 {
+        position: relative;
+        width: 100%!important;
+    }
+
+
 }
+
+
+
 
 @media only screen and (max-width: 350px) {
 
@@ -448,4 +581,7 @@ img.t-action {
 	    background-color: #596887;
 	    min-height: 400px;
 	}
+
+
+   
 }
