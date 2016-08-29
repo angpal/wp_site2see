@@ -9,15 +9,17 @@
 
 <div id="slider_container">
 
-		<div class="twelve columns hero-banner">
+		
+
+			<img src = "http://localhost:8080/wp_site2see/wp-content/uploads/2016/08/banner_1366x902.jpg" class="hero-img">
 	
 			<div class="hero-content">
-			<h1 class="hero-h1">Custom Web Design and Development</h1>
-			<p class="hero-p">Site2See specializes in creating unique designs for your personal or business website . As an educated designer and developer, I striving to deliver products that exceed your expectations.</p>
-			<a href="#" class="call-to-action-btn">Ask For A Quote</a>
+				<h1 class="hero-h1">Custom Web Design and Development</h1>
+				<p class="hero-p">Site2See specializes in creating unique designs for your personal or business website . As an educated designer and developer, I striving to deliver products that exceed your expectations.</p>
+				<a href="#" class="call-to-action-btn">Ask For A Quote</a>
 			</div>
 
-		</div>
+
 
 </div>
 
