@@ -50,6 +50,7 @@ src: url(fonts/LoveloBlack.otf);
 }
 
 div#menubar {
+	display: none;
     position: absolute;
     right: 10px;
     bottom: 5px;
@@ -274,7 +275,7 @@ img.img-way3 {
     position: relative;
 }
 img.t-action {
-    width: 70%;
+    width: 37%;
     margin: 30px auto;
     margin: auto;
     display: block;
@@ -350,6 +351,41 @@ img.t-action {
     display: none;
     
 }
+
+
+/* ------ Section 6 - Footer ----------  */
+
+ul, ol, dl .xoxo {
+	list-style: none;
+}
+
+#footer {
+    background: #294064!important;
+}
+
+#footer-info {
+    background: #294064!important;
+}
+
+#footer-widget .widget-container ul li {
+    border-bottom: 1px solid #294064;
+    padding: 7px 0px;
+}
+
+
+.textwidget li p {
+	margin-bottom: 0!important;
+}
+
+
+#footer-widget .widget-container ul li a {
+    color: #ccc;
+}
+
+#footer-widget .widget-container ul li a:hover {
+    color: #6f6f6f;
+}
+
 
 
 

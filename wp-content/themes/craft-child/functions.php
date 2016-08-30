@@ -3,4 +3,10 @@
 
 define('HEADER_IMAGE_WIDTH', 400);
 define('HEADER_IMAGE_HEIGHT', 122);
+
+
+	
+
+
+
 ?>
