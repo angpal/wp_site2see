@@ -308,7 +308,7 @@ img.t-action {
 }
 
 
-
+/* ------ Contact Us Form ----------- */
 
 .fscf-box {
     margin: 20px auto;
@@ -321,17 +321,33 @@ img.t-action {
     display: none;
 }
 
-#FSContact1 {
+div#FSContact1 {
     margin: auto;
-
     text-align: center;
     display: block;
+    box-shadow: none!important;
 }
 
+input#fscf_submit1 {
+    cursor:pointer; 
+    margin:0; 
+    background-color: #294064!important; 
+    height: 45px; 
+    border-radius: 5px; 
+    padding: 5px; 
+    color: #f4f4f4!important;
+    font-weight: 600!important; 
+    border: 1px solid #f4f4f4!important;
+    /*border: 3px solid rgba(138, 139, 140, 0.49)!important; */
+    /*color: #576983;*/
+    width: 100%;
+    box-shadow: 3px 3px 5px rgb(244, 244, 245)!important;
+}
 
-
-
-/* ------ Section 5 - Contact Us ----------- */
+input#fscf_submit1:hover {
+    box-shadow: 3px 3px 5px #ccc inset!important;
+    border: 2px solid #f4f4f4!important;
+}
 
 .textwidget a {
     color: #f2f2f2;
@@ -353,9 +369,10 @@ img.t-action {
 }
 
 
+
 /* ------ Section 6 - Footer ----------  */
 
-ul, ol, dl .xoxo {
+.xoxo ul, ol, dl  {
 	list-style: none;
 }
 
@@ -369,21 +386,46 @@ ul, ol, dl .xoxo {
 
 #footer-widget .widget-container ul li {
     border-bottom: 1px solid #294064;
-    padding: 7px 0px;
+    padding: 7px 50px;
 }
 
 
 .textwidget li p {
 	margin-bottom: 0!important;
+    line-height: 10px;
+}
+
+.textwidget {
+    line-height: 34px;
 }
 
 
+#footer-widget {
+    padding: 8px 0px 8px 120px;
+}
+
 #footer-widget .widget-container ul li a {
-    color: #ccc;
+    color: #a8a8a8;
+}
+
+#footer-widget .widget-container a {
+    padding-left: 15px;
+    color: #a8a8a8;
+    font-style: italic;
+    font-weight: 600;
 }
 
 #footer-widget .widget-container ul li a:hover {
     color: #6f6f6f;
+}
+
+
+#copyright a {
+    letter-spacing: 1px;
+}
+
+.contact-email a {
+    padding-left: 0!important;
 }
 
 

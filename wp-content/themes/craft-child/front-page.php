@@ -2,6 +2,12 @@
     include( get_home_template() );
 } else { ?>
 
+	<?php if ( ! function_exists( 'has_site_icon' ) || ! has_site_icon() ) : ?>
+		<?php if ( get_theme_mod('site_favicon') ) : ?>
+			<link rel="shortcut icon" href="<?php echo esc_url(get_theme_mod('site_favicon')); ?>" />
+		<?php endif; ?>
+	<?php endif; ?>
+
 <?php get_header(); ?>
 
 <!-- slider -->
@@ -16,7 +22,7 @@
 			<div class="hero-content">
 				<h1 class="hero-h1">Custom Web Design and Development</h1>
 				<p class="hero-p">Site2See specializes in creating unique designs for your personal or business website . As an educated designer and developer, I striving to deliver products that exceed your expectations.</p>
-				<a href="#" class="call-to-action-btn">Ask For A Quote</a>
+				<a href="#get-a-quote" class="call-to-action-btn">Ask For A Quote</a>
 			</div>
 
 
@@ -74,7 +80,7 @@
 
     		<div class="a-better-way">
 
-    			<h2>Three Basic Priciples</h2>
+    			<h2>Three Basic Principles</h2>
 
     				<div class="way1">
     					<img src = "http://localhost:8080/wp_site2see/wp-content/uploads/2016/08/principle_1_quality.png" class="img-way1">
@@ -85,7 +91,7 @@
     				<div class="way2">
     					<img src = "http://localhost:8080/wp_site2see/wp-content/uploads/2016/08/principle_2_affordable.png" class="img-way2">
     					<h3>Build Affordable Websites</h3>
-    					<p>My overheads are low which means I can pass on the savings to you. Of course the mopre complex the website the high the cost, but I am certain that you will be pleasantly surprised at how competative my prices will be.</p>
+    					<p>My overheads are low which means I do not have to charge the high prices that some larger businesses do. Of course the more complex the website the high the cost, but I am certain that you will be pleasantly surprised at how competative my prices will be.</p>
     				</div>
 
     				<div class="way3">
@@ -104,14 +110,17 @@
 		</div><!--- my-philosophy end -->
 
 
-	
+	<a name="get-a-quote"></a>
 		<div id= "contact-us">
 
-			<h2 class="contact-heading-1"> Great communication begins right here, right now.</h2>
-			<h3>So tell me what you are thinking. </h3>
 
-			<h4 class="contact-heading-2"> Are you in need of a personal or business website? Just foreward me a few detail, like the number of pages, purpose and a basic idea of the type of content, and I can foreward to you an approximate costing. That simple!</h4><br><br>
-			<h4> If not, I am happy to answer any questions you may have about the Site2See service. Reach out to me and I'll respond as soon as I can. </h4>
+
+			<h2 class="contact-heading-1"> Get a Quote or Send a Message.</h2><br>
+			<h3>Great communication begins right here, right now.<br>So tell me what you are thinking. </h3>
+
+			<h4 class="contact-heading-2"> Are you in need of a personal or business website? Just send me a few detail, like the number of pages, the purpose of the website and an idea of the type of content, and I will forward to you an approximate costing. That simple!
+
+			<br><br> If not, I am happy to answer any questions you may have about the Site2See service. Reach out to me and I'll respond as soon as I can. </h4>
 
 			<div class="fscf-box">
 
