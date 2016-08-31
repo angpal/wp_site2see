@@ -30,8 +30,13 @@
 				
 			<div class="large-12 columns">
 			
-				<div id="copyright"><?php _e( 'Copyright', 'craft' ); ?> <?php echo date( 'Y' ); ?> <?php echo esc_html(of_get_option('footer_cr')); ?>
-					<!-- | <?php _e( 'Powered by', 'craft' ); ?> <a href="http://www.wordpress.org"><?php _e( 'WordPress', 'craft' ); ?></a> --><?php _e( '.... Designed and Developed by:', 'craft' ); ?> <a href="http://www.site2see.com.au"><?php _e( ' www.site2see.com.au', 'craft' ); ?></a></div>
+				<div id="copyright">
+
+					<?php _e( 'Copyright', 'craft' ); ?> <?php echo date( 'Y' ); ?> &nbsp;  &nbsp;
+					<?php _e( ' Designed and Developed by:', 'craft' ); ?> &nbsp;  
+					<a href="http://www.site2see.com.au"><?php _e( ' www.site2see.com.au', 'craft' ); ?></a>
+
+				</div>
 					
 			</div><!--footer info end-->		
 		</div><!-- footer container2-->				

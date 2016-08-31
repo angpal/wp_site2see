@@ -28,25 +28,37 @@ src: url(fonts/LoveloBlack.otf);
 	
 /* ----  GENERAL settings  ----- */
 
-.row{
-	max-width: 84.5em!important;
-}
 
-#logo {
-	width: 50%!important;
-}
 
-#header2 {
-    margin: 0 auto;
-    padding-bottom: 0!important;
-    position: relative;
-}
 
 #header_container {
     margin: 0 auto;
     border-bottom: 1px solid #ddd;
     padding: 0 0!important;
     background-color: #f9f9f9;
+    border-top: 15px solid #294064!important;
+    border-bottom: 15px solid #294064!important;
+}
+
+.row{
+	max-width: 84.5em!important;
+    width: 100%!important;
+}
+
+#logo {
+	width: 50%!important;
+    text-align: center;
+    margin: auto;
+}
+
+#logo img {
+    margin: auto;
+}
+
+#header2 {
+    margin: 0 auto;
+    padding-bottom: 0!important;
+    position: relative;
 }
 
 div#menubar {
@@ -372,7 +384,7 @@ input#fscf_submit1:hover {
 
 /* ------ Section 6 - Footer ----------  */
 
-.xoxo ul, ol, dl  {
+.xoxo   {
 	list-style: none;
 }
 
@@ -404,6 +416,10 @@ input#fscf_submit1:hover {
     padding: 8px 0px 8px 120px;
 }
 
+#footer-widget.xoxo li {
+    list-style: none;
+}
+
 #footer-widget .widget-container ul li a {
     color: #a8a8a8;
 }
@@ -422,6 +438,8 @@ input#fscf_submit1:hover {
 
 #copyright a {
     letter-spacing: 1px;
+    font-size: 15px;
+    font-style: italic;
 }
 
 .contact-email a {
@@ -461,7 +479,7 @@ input#fscf_submit1:hover {
 	    font-size: 16px;
 	}
 
-
+}
 
 
 
@@ -485,8 +503,24 @@ input#fscf_submit1:hover {
         width: 50%!important;
     }
 
-    
 
+    #footer-bar1, #footer-bar2 {
+        float: none;
+        width: 49%;
+        display: inline-block;
+        margin: auto;
+        vertical-align: top;
+    }
+
+    #footer-bar3 {
+        float: none;
+        clear: all;
+        width: 50%;
+        display: block;
+        margin: auto;
+    }
+
+ 
 }
 
 
@@ -568,9 +602,15 @@ input#fscf_submit1:hover {
 }
 
 
+@media only screen and (max-width: 768px) {
 
 
-@media only screen and (max-width: 550px) {
+    #footer-bar1, #footer-bar2, #footer-bar3 {
+        float: none;
+        display: block;
+        width: 241px;
+        margin: auto;
+    }
 
 	#slider_container {
 	    overflow: hidden;

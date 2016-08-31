@@ -1,3 +1,7 @@
+
+
+
+
 <?php if ( 'posts' == get_option( 'show_on_front' ) ) {
     include( get_home_template() );
 } else { ?>
@@ -103,7 +107,7 @@
     		</div><!-- a-better-way end -->
 
     		<div class="take-action">
-    			<a href = "#"><img src = "http://localhost:8080/wp_site2see/wp-content/uploads/2016/08/take-action_379x69.png" class="t-action">
+    			<a href = "#get-a-quote"><img src = "http://localhost:8080/wp_site2see/wp-content/uploads/2016/08/take-action_379x69.png" class="t-action">
     			</a>
     		</div>
 			
